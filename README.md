@@ -1,4 +1,5 @@
 # Bike-sales-dashboard
+![](bike_sales_picture.jpg)
 
 ## Introduction
 This is a Ms Excel project on Bike sales in a community using imaginary data called bike sales. This 
@@ -23,7 +24,7 @@ the formula "=if(cellnumber > specific age, old, if(cellnumber > specificage, mi
 ## visualization
 The visualization was done with Ms Excel as well displaying key insights for the solution for the problem statement above. the 
 visualization consists of the dashboard title, the chart display and the slicers to control the chart as well. 
-
+![](bike_sales_dashboard.png)
 ## Analysis 
 Pivot table and pivot chart were used to breakdown the analysis for easy insights. A different sheet was created for the pivot table.
 
